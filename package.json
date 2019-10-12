@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server \" \"npm run client\""
+  },
+  "author": "Heechan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "concurrently": "^5.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
