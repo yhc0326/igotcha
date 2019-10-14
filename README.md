@@ -1,5 +1,5 @@
 # igotcha
-<h3>iGotcha Games</h3>
+<h1>iGotcha Games</h1>
 <br/>
 Initial Setup for directories at 2019-10-12 11:53am(Montreal time).<br/>
 Final Commit for directories at 2019-10-14 12:28am(Montreal time).<br/>
@@ -26,7 +26,7 @@ npm start
 iGotcha Games is a fully functioning web application written in React js(Redux), Node js(Express), MySQL launched on AWS EC2 instance with RDS.<br/>
 <br/>
 <h3>Note</h3>
-Cloning this git repository will not automatically make the application connect to MySQL database. To run this app on your local machine, you need to set up MySQL server and install igotcha Games database. Please contact me if you want to run this app locally. You can contact me by my email. yhc036@gmail.com<br/>
+Cloning this git repository will not automatically make the application connect to MySQL database. To run this app on your local machine, you need to set up MySQL server and install igotcha Games database. Please contact me if you want to run this app locally. You can contact me by my email. <i>yhc0326@gmail.com</i><br/>
 <br/>
 <h3>Instructions</h3>
 <ol>
