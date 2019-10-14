@@ -42,9 +42,6 @@ Instructions
 
 
 
-<script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script>
-You can find the library on window.ReactRouterDOM.
-
 Issues
 If you find a bug, please file an issue on GitHub.
 
