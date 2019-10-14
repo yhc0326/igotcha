@@ -12,12 +12,10 @@ http://igotchagames.coo.kr/
 <h3>Installation</h3>
 Using git, in your Terminal or Command Prompt<br/>
 <br/>
-```
-git clone https://github.com/yhc0326/igotcha.git
-cd igotcha
-npm install
-npm start
-```
+git clone https://github.com/yhc0326/igotcha.git<br/>
+cd igotcha<br/>
+npm install<br/>
+npm start<br/>
 <br/>
 <br/>
 <br/>
