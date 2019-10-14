@@ -22,6 +22,9 @@ npm start<br/>
 <h3>Description</h3>
 iGotcha Games is a fully functioning web application written in React js(Redux), Node js(Express), MySQL launched on AWS EC2 instance with RDS.<br/>
 <br/>
+<h3>Database</h3>
+You can find a Database ERD.png file in this directory. The image file describes how the relational database design looks like. You can also find a igotcha.sql file in the same directory. The sql file contains sql script to generate iGotcha Games database.<br/>
+<br/>
 <h3>Note</h3>
 Cloning this git repository will not automatically make the application connect to MySQL database. To run this app on your local machine, you need to set up MySQL server and install igotcha Games database. Please contact me if you want to run this app locally. You can contact me by my email. <i>yhc0326@gmail.com</i><br/>
 <br/>
