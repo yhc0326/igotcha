@@ -5,6 +5,8 @@ const PORT = process.env.PORT || 5000;
 
 // Init Middleware
 app.use(express.json({ extended: false }));
+app.use(express.urlencoded({ extended: false }));
+app.use(express.static(path.join(__dirname, 'public')));
 
 //Allow Origins from different port ONLY DURING development
 app.use(function(req, res, next) {
