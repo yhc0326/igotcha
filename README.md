@@ -1,5 +1,4 @@
 # igotcha
-<h1>iGotcha Games</h1>
 <br/>
 Initial Setup for directories at 2019-10-12 11:53am(Montreal time).<br/>
 Final Commit for directories at 2019-10-14 12:28am(Montreal time).<br/>
