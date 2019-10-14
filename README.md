@@ -1,8 +1,8 @@
 # igotcha
 iGotcha Games
 
-Initial Setup for directories at 2019-10-12 11:53am(Montreal time).
-Final Commit for directories at 2019-10-14 12:28am(Montreal time).
+Initial Setup for directories at 2019-10-12 11:53am(Montreal time).<br/>
+Final Commit for directories at 2019-10-14 12:28am(Montreal time).<br/>
 
 iGotcha Games
 Custom Web application for demonstration (No third-party templates used)
