@@ -16,8 +16,8 @@ app.use(function(req, res, next) {
 });
 
 //Define routes
-// app.use('/api/user', require('./routes/api/user'));
-// app.use('/api/download', require('./routes/api/download'));
+app.use('/api/user', require('./api/user'));
+app.use('/api/game', require('./api/game'));
 
 app.get("/", (req, res) => {
   res.json({Server:" is up and running"});
