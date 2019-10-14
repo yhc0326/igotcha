@@ -15,10 +15,15 @@ app.use(function(req, res, next) {
   next();
 });
 
+app.use(express.static('build'));
+
 //Define routes
 app.use('/api/user', require('./api/user'));
 app.use('/api/game', require('./api/game'));
 
+app.get('/*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
+})
 app.get("/", (req, res) => {
   res.json({Server:" is up and running"});
 });

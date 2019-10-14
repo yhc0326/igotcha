@@ -1,12 +1,20 @@
 var mysql   = require("mysql");
 
 var pool = mysql.createPool({
-      host     : 'localhost',
-      user     : 'root',
-      password : 'password',
-      port     : '3306',
-      database : 'igotcha'
+    host     : 'igotcha2019.cntvxkrjqpa0.ap-northeast-2.rds.amazonaws.com',
+    user     : 'igotcha2019',
+    password : 'igotcha2019',
+    port     : '3306',
+    database : 'igotcha'
 });
+
+// var pool = mysql.createPool({
+//       host     : 'localhost',
+//       user     : 'root',
+//       password : 'password',
+//       port     : '3306',
+//       database : 'igotcha'
+// });
 
 var connection = (function () {
 
