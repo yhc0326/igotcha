@@ -7,7 +7,7 @@ Final Commit for directories at 2019-10-14 12:28am(Montreal time).<br/>
 Custom Web application for demonstration (No third-party templates used)<br/>
 <br/>
 <h3>Demonstration</h3>
-http://igotchagames.coo.kr/
+http://13.125.36.144:5000/
 <br/>
 <h3>Installation</h3>
 Using git, in your Terminal or Command Prompt<br/>
@@ -30,7 +30,7 @@ Cloning this git repository will not automatically make the application connect 
 <br/>
 <h3>Instructions</h3>
 <ol>
-  <li>Simply visit this website. http://igotchagames.coo.kr/ </li>
+  <li>Simply visit this website. http://13.125.36.144:5000/ </li>
   <li>Click on Login. Then click on Sign up link. </li>
   <li>Sign up as either a player or an ops team member. </li>
   <li>Click on one of the games. </li>
